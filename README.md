@@ -2,7 +2,6 @@ WELCOME TO MY WEBSITE
 <body>
 <h3>JAI MAHAKAAL<h3>
       <p class="intro">  I'm Govind Mishra , study at Bsc 2nd year From KSR sarairanjan.</p>
-    <div class="skills">
     <p>contact info<em><strong><a href="https://wa.me/message/AJH2NPS5MGI5C1">what'sapp</a></strong></em></p>
         <h3>Programming</h3>
         <p>Programming teaches me that you always do mistakes, all you have to do is to find it and fix it.</p>
