@@ -1,5 +1,4 @@
 WELCOME TO MY WEBSITE 
-</head>
 <body>
 <hl>govind mishra </hl>
 <h3>S/O of Ram babu mishra<h3>
