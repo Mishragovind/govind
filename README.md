@@ -2,7 +2,6 @@ WELCOME TO MY WEBSITE
 <body>
 <h3>JAI MAHAKAAL<h3>
       <p class="intro">  I'm Govind Mishra , study at Bsc 2nd year From KSR sarairanjan.</p>
-    </div>
     <hr>
     <div class="skills">
       <h2>My Skills.</h2>
@@ -17,8 +16,6 @@ WELCOME TO MY WEBSITE
       <h2>Get In Touch</h2>
       <h3>if you love Tea as much as I do.</h3>
       <p>Love Tea as much I do? Let's take a cup of tea with me and help each other solving bugs.</p>
-      <a class="btn"href="mailto:mishragovind0567@gmail.com">CONTACT ME</a>
-    </div>
   <div class="bottom-container">
     <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
     <a class="footer-link" href="https://www.instagram.com/_real awesome dreamer/">Instagram</a>
