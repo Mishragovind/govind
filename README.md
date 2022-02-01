@@ -10,10 +10,6 @@ WELCOME TO MY WEBSITE
 
 <body>
   <div class="top">
-    <img class="top-cloud" src="images/cloud.png" alt="cloud image">
-    <h1>I'm Govind</h1>
-    <img class="bottom-cloud" src="images/cloud.png" alt="cloud image">
-    <img src="images/mountain.png" alt="mountain image">
   </div>
   <div class="middle-container">
     <div class="profile">
@@ -27,8 +23,6 @@ WELCOME TO MY WEBSITE
         <h3>Programming</h3>
         <p>Programming teaches me that you always do mistakes, all you have to do is to find it and fix it.</p>
       </div>
-      <div class="skill-row">
-        <img class="game" src="https://media2.giphy.com/media/jeAVe8UcwijrW/giphy.gif?cid=ecf05e47ijjimupik0q8jd2pe1naqotb7fhc1bs0jblwwy69&rid=giphy.gif&ct=g" alt="">
         <h3>video Games</h3>
         <p>Its Allows me to connect all of my friends for a while when we play together, that gives me intense pleasure.</p>
       </div>
@@ -41,13 +35,10 @@ WELCOME TO MY WEBSITE
       <a class="btn" "https://mishragovind0567@gmail.com">CONTACT ME</a>
     </div>
   </div>
-
-
   <div class="bottom-container">
     <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
     <a class="footer-link" href="https://www.instagram.com/_real awesome dreamer/">Instagram</a>
-
-    <p class="copyright">© 2021 Govind Mishra.</p>
+  <p class="copyright">© 2021 Govind Mishra.</p>
   </div>
 
 </body>
