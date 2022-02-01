@@ -12,7 +12,6 @@ WELCOME TO MY WEBSITE
         <h3>video Games</h3>
         <p>Its Allows me to connect all of my friends for a while when we play together, that gives me intense pleasure.</p>
       </div>
-    </div>
     <hr>
     <div class="contact-me">
       <h2>Get In Touch</h2>
@@ -24,5 +23,4 @@ WELCOME TO MY WEBSITE
     <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
     <a class="footer-link" href="https://www.instagram.com/_real awesome dreamer/">Instagram</a>
   <p class="copyright">© 2021 Govind Mishra.</p>
-  </div>
-
+ 
