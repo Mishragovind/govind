@@ -9,7 +9,7 @@ WELCOME TO MY WEBSITE
 
 <head>
   <meta charset="utf-8">
-  <title>Raunak Mishra</title>
+  <title>Govind Mishra</title>
   <link rel="stylesheet" href="CSS/style.css">
   <link rel="icon" href="CSS/favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +20,7 @@ WELCOME TO MY WEBSITE
 <body>
   <div class="top">
     <img class="top-cloud" src="images/cloud.png" alt="cloud image">
-    <h1>I'm Raunak</h1>
+    <h1>I'm Govind</h1>
     <h2>Student At NIT-P</h2 >
     <img class="bottom-cloud" src="images/cloud.png" alt="cloud image">
     <img src="images/mountain.png" alt="mountain image">
@@ -56,8 +56,8 @@ WELCOME TO MY WEBSITE
 
 
   <div class="bottom-container">
-    <a class="footer-link" href="https://www.facebook.com/keshav.raj.3517563">Facebook</a>
-    <a class="footer-link" href="https://www.instagram.com/_raunak.jr/">Instagram</a>
+    <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
+    <a class="footer-link" href="https://www.instagram.com/_real awesome dreamer/">Instagram</a>
 
     <p class="copyright">© 2021 Raunak jr.</p>
   </div>
