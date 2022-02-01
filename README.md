@@ -19,7 +19,7 @@ WELCOME TO MY WEBSITE
       <h2>Get In Touch</h2>
       <h3>if you love Tea as much as I do.</h3>
       <p>Love Tea as much I do? Let's take a cup of tea with me and help each other solving bugs.</p>
-      <a class="btn"href=mail to"https://mishragovind0567@gmail.com">CONTACT ME</a>
+      <a class="btn"href="mailto:mishragovind0567@gmail.com">CONTACT ME</a>
     </div>
   <div class="bottom-container">
     <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
