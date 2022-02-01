@@ -2,15 +2,13 @@ WELCOME TO MY WEBSITE
 <body>
 <h3>JAI MAHAKAAL<h3>
       <p class="intro">  I'm Govind Mishra , study at Bsc 2nd year From KSR sarairanjan.</p>
-    <hr>
     <div class="skills">
-      <h2>My Skills.</h2>
+    <p>contact info<em><strong><a href="https://wa.me/message/AJH2NPS5MGI5C1">what'sapp</a></strong></em></p>
         <h3>Programming</h3>
         <p>Programming teaches me that you always do mistakes, all you have to do is to find it and fix it.</p>
       </div>
         <h3>video Games</h3>
         <p>Its Allows me to connect all of my friends for a while when we play together, that gives me intense pleasure.</p>
-      </div>
     <hr>
     <div class="contact-me">
       <h2>Get In Touch</h2>
