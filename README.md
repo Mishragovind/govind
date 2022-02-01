@@ -1,7 +1,6 @@
 WELCOME TO MY WEBSITE 
 <body>
 <h3>JAI MAHAKAAL<h3>
-<!DOCTYPE html>
       <p class="intro">  I'm Govind Mishra , study at Bsc 2nd year From KSR sarairanjan.</p>
     </div>
     <hr>
@@ -27,6 +26,3 @@ WELCOME TO MY WEBSITE
   <p class="copyright">© 2021 Govind Mishra.</p>
   </div>
 
-</body>
-
-</html>
