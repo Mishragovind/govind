@@ -2,19 +2,6 @@ WELCOME TO MY WEBSITE
 <body>
 <h3>JAI MAHAKAAL<h3>
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-       Govind Mishra
-</head>
-
-<body>
-  <div class="top">
-  </div>
-  <div class="middle-container">
-    <div class="profile">
-      <img class="circular" src="https://scontent.fpat3-1.fna.fbcdn.net/v/t1.6435-9/p600x600/146323957_2791858344362997_8537732359644226793_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=iL5B4D2bfbMAX9qGSpm&_nc_ht=scontent.fpat3-1.fna&oh=19183a25589a46a516ef390c8467c500&oe=61C4670A" alt="My profile Pic">
-      <h2>Hello.</h2>
       <p class="intro">  I'm Govind Mishra , study at Bsc 2nd year From KSR sarairanjan.</p>
     </div>
     <hr>
@@ -32,9 +19,8 @@ WELCOME TO MY WEBSITE
       <h2>Get In Touch</h2>
       <h3>if you love Tea as much as I do.</h3>
       <p>Love Tea as much I do? Let's take a cup of tea with me and help each other solving bugs.</p>
-      <a class="btn" "https://mishragovind0567@gmail.com">CONTACT ME</a>
+      <a class="btn"href=mail to"https://mishragovind0567@gmail.com">CONTACT ME</a>
     </div>
-  </div>
   <div class="bottom-container">
     <a class="footer-link" href="https://www.facebook.com/govindkumar.mishra.357">Facebook</a>
     <a class="footer-link" href="https://www.instagram.com/_real awesome dreamer/">Instagram</a>
